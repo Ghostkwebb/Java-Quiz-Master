@@ -7,10 +7,6 @@
 
 Welcome to **Java Quiz Master**, a Java-based quiz application designed to challenge your knowledge across various topics. This project provides a fun and interactive way to test your skills and learn new things while exploring Java programming.
 
-## Demo
-
-Curious about how it works? Check out the live demo of the Java Quiz Master [here](https://sharemygame.com/@Ghostkwebb/java-quiz).
-
 ## Features
 
 - **Multiple Question Types**: Includes multiple-choice, true/false, and short-answer questions.
@@ -19,7 +15,7 @@ Curious about how it works? Check out the live demo of the Java Quiz Master [her
 - **Dynamic Feedback**: Get immediate feedback on your answers.
 
 ## How to Play
--Curious about how it works? Check out the live demo of the Java Quiz Master
+- Curious about how it works? Check out the live demo of the Java Quiz Master
 1. You can <a href="https://sharemygame.com/@Ghostkwebb/java-quiz" target="_blank">play the game online</a> to see it in action.
 2. Alternatively, launch the application by following the installation steps above.
 3. Follow the on-screen instructions to answer each question.
