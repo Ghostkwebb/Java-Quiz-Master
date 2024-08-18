@@ -1,6 +1,6 @@
 
-<img width="963" alt="Screenshot 2024-08-18 at 5 32 03 PM" src="https://github.com/user-attachments/assets/8b0fe03f-7ae7-4fed-bbc3-ecb5f1679fe1" width="20">
-<img width="965" alt="Screenshot 2024-08-18 at 5 32 42 PM" src="https://github.com/user-attachments/assets/616d9332-b550-40eb-b00e-9851453c44f0" width="20">
+<img width="963" alt="Screenshot 2024-08-18 at 5 32 03 PM" src="https://github.com/user-attachments/assets/8b0fe03f-7ae7-4fed-bbc3-ecb5f1679fe1" width="480" height="270">
+<img width="965" alt="Screenshot 2024-08-18 at 5 32 42 PM" src="https://github.com/user-attachments/assets/616d9332-b550-40eb-b00e-9851453c44f0" width="480" height="270">
 
 
 # Java Quiz Master
