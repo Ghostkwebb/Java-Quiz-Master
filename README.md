@@ -15,7 +15,7 @@ Curious about how it works? Check out the live demo of the Java Quiz Master [her
 
 ## How to Play
 
-1. You can **[play the game online](https://sharemygame.com/@Ghostkwebb/java-quiz)** to see it in action.
+1. You can <a href="https://sharemygame.com/@Ghostkwebb/java-quiz" target="_blank">play the game online</a> to see it in action.
 2. Alternatively, launch the application by following the installation steps above.
 3. Follow the on-screen instructions to answer each question.
 4. Your score will be displayed at the end of the quiz.
@@ -26,14 +26,13 @@ Curious about how it works? Check out the live demo of the Java Quiz Master [her
 
    ```bash
    git clone https://github.com/Ghostkwebb/Java-Quiz-Master.git
-   cd Java-Quiz-Master
 
-2. **Open the project in Unity:
+2. **Open the project in Unity**:
     - Launch Unity Hub.
     - Click on the Open button.
     - Navigate to the directory where you cloned the repository.
    
-3. **Run the application:
+3. **Run the application**:
     - Once the project is loaded, click the Play button at the top of the Unity Editor to start the quiz.
 
    
