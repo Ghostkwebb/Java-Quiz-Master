@@ -34,6 +34,6 @@ Curious about how it works? Check out the live demo of the Java Quiz Master [her
     - Navigate to the directory where you cloned the repository.
    
 3. **Run the application:
-    Once the project is loaded, click the Play button at the top of the Unity Editor to start the quiz.
+    - Once the project is loaded, click the Play button at the top of the Unity Editor to start the quiz.
 
    
